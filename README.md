@@ -77,4 +77,4 @@ Skills:
 
 4. Control de versiones: github ![GitHub Repo](https://img.shields.io/badge/github-repo-4c1?logo=github&logoColor=white)
 
-5. Gemini IA (Gems + Notebook + schuled) !(Gems + Notebook + schumled) ![Static Badge](https://img.shields.io/badge/Gemini%20IA%20%2B%20Gems%20%2B%20NotebookLM%20%2B%20schumled%20-violet?style=plastic&logo=Google%20Gemini&logoColor=white)
+5. Gemini IA (Gems + Notebook + schuled) ![Gemini](https://img.shields.io/badge/Gemini%20IA-Gems%20%2B%20NotebookLM%20%2B%20Scheduled-8A2BE2?style=flat&logo=google-gemini&logoColor=white&labelColor=181717)
