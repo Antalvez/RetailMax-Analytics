@@ -68,6 +68,9 @@ Voy avanzando paso a paso e incorporando los conocimientos y herramientas que vo
 
 ---
 
-**Autor:** Anthony Álvarez
-
-**GitHub:** [Antalvez](https://github.com/Antalvez)
+Skills:
+    - Metodologia scrum
+    - Tablero de jira con scrum
+    - Archivos Markdown
+    - Control de versiones Github
+    - Gemini IA (Gems + Notebook + schuled) ![Static Badge](https://img.shields.io/badge/Gemini%20IA%20%2B%20Gems%20%2B%20NotebookLM%20%2B%20schumled%20-%20violet?style=plastic&logo=Google%20Gemini&logoColor=black)
