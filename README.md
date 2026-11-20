@@ -73,8 +73,8 @@ Skills:
 
 2. Tablero de jira con scrum ![Jira](https://img.shields.io/badge/jira-scrum-1769AA?logo=jira&logoColor=white)
 
-3.  Archivos Markdown [Markdown](https://img.shields.io/badge/Markdown-Edici%C3%B3n%20y%20estructuraci%C3%B3n-D4AA00?logo=markdown&logoColor=white)
+3.  Archivos Markdown ![Markdown](https://img.shields.io/badge/Markdown-Edici%C3%B3n_y_estructuraci%C3%B3n-D4AA00?style=flat&logo=markdown&logoColor=white)
 
 4. Control de versiones: github ![GitHub Repo](https://img.shields.io/badge/github-repo-4c1?logo=github&logoColor=white)
 
-5. Gemini IA (Gems + Notebook + schuled) ![Static Badge](https://img.shields.io/badge/Gemini%20IA%20%2B%20Gems%20%2B%20NotebookLM%20%2B%20schumled%20-%20violet?style=plastic&logo=Google%20Gemini&logoColor=black)
+5. Gemini IA (Gems + Notebook + schuled) !(Gems + Notebook + schumled) ![Static Badge](https://img.shields.io/badge/Gemini%20IA%20%2B%20Gems%20%2B%20NotebookLM%20%2B%20schumled%20-violet?style=plastic&logo=Google%20Gemini&logoColor=white)
