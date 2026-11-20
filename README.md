@@ -69,12 +69,12 @@ Voy avanzando paso a paso e incorporando los conocimientos y herramientas que vo
 ---
 
 Skills:
-    - Metodologia scrum
+1. Metodologia scrum
 
-    - Tablero de jira con scrum
+2. Tablero de jira con scrum ![Jira](https://img.shields.io/badge/jira-scrum-1769AA?logo=jira&logoColor=white)
 
-    - Archivos Markdown
+3.  Archivos Markdown [Markdown](https://img.shields.io/badge/Markdown-Edici%C3%B3n%20y%20estructuraci%C3%B3n-D4AA00?logo=markdown&logoColor=white)
 
-    - Control de versiones Github https://img.shields.io/badge/github-repo-blue?logo=github
+4. Control de versiones: github ![GitHub Repo](https://img.shields.io/badge/github-repo-4c1?logo=github&logoColor=white)
 
-    - Gemini IA (Gems + Notebook + schuled) ![Static Badge](https://img.shields.io/badge/Gemini%20IA%20%2B%20Gems%20%2B%20NotebookLM%20%2B%20schumled%20-%20violet?style=plastic&logo=Google%20Gemini&logoColor=black)
+5. Gemini IA (Gems + Notebook + schuled) ![Static Badge](https://img.shields.io/badge/Gemini%20IA%20%2B%20Gems%20%2B%20NotebookLM%20%2B%20schumled%20-%20violet?style=plastic&logo=Google%20Gemini&logoColor=black)
